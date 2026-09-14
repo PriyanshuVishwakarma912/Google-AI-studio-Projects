@@ -1,0 +1,6 @@
+{
+  "name": "Modern Bakery Shop",
+  "description": "An elegant modern bakery website featuring a custom cake builder, dietary filters, a shopping cart, seamless WhatsApp ordering, and an owner order history tracking dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
